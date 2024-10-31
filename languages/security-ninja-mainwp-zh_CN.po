@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN@hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: security-ninja-mainwp.php:1325 security-ninja-mainwp.php:1349
+#, php-format
+msgid "%1$s <small>v.%2$s</small>"
+msgstr "%1$s <small>v.%2$s</small>"
+
+#: security-ninja-mainwp.php:1224
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: class/SecurityNinjaMainWPExtension.class.php:68
+msgid "Action"
+msgstr "行动"
+
+#: class/SecurityNinjaMainWPExtension.class.php:46
+msgid "Additionally, the Sites overview in the Security Ninja column will display more detailed insights, including malware scan reports and specific settings for each website."
+msgstr "此外，\"安全忍者 \"栏中的 \"网站 \"概览将显示更详细的信息，包括恶意软件扫描报告和每个网站的具体设置。"
+
+#: security-ninja-mainwp.php:559
+msgid "All free features"
+msgstr "所有免费功能"
+
+#: security-ninja-mainwp.php:1630
+msgid "An error occurred. Please try again later."
+msgstr "发生错误。请稍后重试。"
+
+#: security-ninja-mainwp.php:515
+msgid "AppSumo users!"
+msgstr "AppSumo 用户！"
+
+#: security-ninja-mainwp.php:1617
+msgid "Author Name*"
+msgstr "作者姓名*"
+
+#: security-ninja-mainwp.php:1619
+msgid "Author URL*"
+msgstr "作者网址*"
+
+#: security-ninja-mainwp.php:1605
+msgid "Change white label settings"
+msgstr "更改白标设置"
+
+#: security-ninja-mainwp.php:548
+msgid "Check out the test scores on individual site pages"
+msgstr "查看各个网站页面上的测试分数"
+
+#: security-ninja-mainwp.php:1625
+msgid "Close"
+msgstr "Close"
+
+#: security-ninja-mainwp.php:1101
+msgid "Comment"
+msgstr "评论"
+
+#: security-ninja-mainwp.php:516 security-ninja-mainwp.php:534
+msgid "Contact our support here"
+msgstr "在此处联系我们的支持人员"
+
+#: security-ninja-mainwp.php:1607
+msgid "Customize the white label settings for Security Ninja Premium websites"
+msgstr "自定义 Security Ninja Premium 网站的白标设置"
+
+#: class/SecurityNinjaMainWPExtension.class.php:69
+msgid "Description"
+msgstr "描述"
+
+#: security-ninja-mainwp.php:1611
+msgid "Disable white label"
+msgstr "禁用白标"
+
+#: security-ninja-mainwp.php:532
+msgid "Documentation"
+msgstr "文档"
+
+#: security-ninja-mainwp.php:1609
+msgid "Enable white label"
+msgstr "启用白标"
+
+#: security-ninja-mainwp.php:1620
+msgid "Enter author URL*"
+msgstr "输入作者 URL*"
+
+#: security-ninja-mainwp.php:1618
+msgid "Enter author name*"
+msgstr "输入作者姓名*"
+
+#: security-ninja-mainwp.php:1616
+msgid "Enter plugin description*"
+msgstr "输入插件描述*"
+
+#: security-ninja-mainwp.php:1622
+msgid "Enter plugin icon URL"
+msgstr "输入插件图标 URL"
+
+#: security-ninja-mainwp.php:1624
+msgid "Enter plugin menu icon URL"
+msgstr "输入插件菜单图标 URL"
+
+#: security-ninja-mainwp.php:1614
+msgid "Enter plugin name*"
+msgstr "输入插件名称*"
+
+#: security-ninja-mainwp.php:561
+msgid "Examine detailed malware scans on individual site pages"
+msgstr "检查各个站点页面上的详细恶意软件扫描"
+
+#: security-ninja-mainwp.php:544
+msgid "Free Features"
+msgstr "免费功能"
+
+#: security-ninja-mainwp.php:562
+msgid "Get a combined overview of all event logs from all websites to monitor activities"
+msgstr "获取来自所有网站的所有事件日志的组合概览，以监控活动"
+
+#: security-ninja-mainwp.php:532
+msgid "Getting stuck? Check out the documentation here:"
+msgstr "卡住了？在此处查看文档："
+
+#: class/SecurityNinjaMainWPExtension.class.php:67
+msgid "IP"
+msgstr "知识产权"
+
+#: security-ninja-mainwp.php:381
+#, php-format
+msgid "Important: The %1$s plugin is required to keep the %2$s running. Please do not deactivate it. If you have any questions, please contact support."
+msgstr "重要： %1$s 插件是 %2$s 运行的必要条件。请不要停用它。如有任何疑问，请联系技术支持。"
+
+#: security-ninja-mainwp.php:550
+msgid "Initiate security tests on selected sites from a distance"
+msgstr "从远距离对选定的站点启动安全测试"
+
+#: security-ninja-mainwp.php:1602
+msgid "It looks boring here, right? Please synchronize some websites with Security Ninja Premium installed."
+msgstr "这里看起来很无聊，对吧？请同步一些安装了 Security Ninja Premium 的网站。"
+
+#: security-ninja-mainwp.php:1091
+msgid "Last Run"
+msgstr "上次运行"
+
+#: security-ninja-mainwp.php:1224
+msgid "Last Run:"
+msgstr "上次运行："
+
+#: security-ninja-mainwp.php:1100
+msgid "Linenumber"
+msgstr "线号"
+
+#: security-ninja-mainwp.php:1603
+msgid "Loading..."
+msgstr "装载。。。"
+
+#: security-ninja-mainwp.php:1099
+msgid "Mached pattern"
+msgstr "Mached 模式"
+
+#: security-ninja-mainwp.php:1384
+msgid "Message"
+msgstr "留言"
+
+#: security-ninja-mainwp.php:1082 security-ninja-mainwp.php:1218
+msgid "No data available."
+msgstr "无可用数据。"
+
+#: security-ninja-mainwp.php:1424
+msgid "No test results found"
+msgstr "未找到测试结果"
+
+#: security-ninja-mainwp.php:1369
+msgid "No vulnerabilities found."
+msgstr "未发现漏洞。"
+
+#: security-ninja-mainwp.php:1027
+msgid "Open Security Ninja Tab"
+msgstr "打开 Security Ninja 选项卡"
+
+#: security-ninja-mainwp.php:1510
+msgid "Open the site overview"
+msgstr "打开站点概述"
+
+#: security-ninja-mainwp.php:1628
+msgid "Please fill in all required fields."
+msgstr "请填写所有必填字段。"
+
+#: security-ninja-mainwp.php:1615
+msgid "Plugin Description*"
+msgstr "插件说明*"
+
+#: security-ninja-mainwp.php:1621
+msgid "Plugin Icon URL"
+msgstr "插件图标 URL"
+
+#: security-ninja-mainwp.php:1623
+msgid "Plugin Menu Icon URL"
+msgstr "插件菜单图标 URL"
+
+#: security-ninja-mainwp.php:1613
+msgid "Plugin Name*"
+msgstr "插件名称*"
+
+#: security-ninja-mainwp.php:1316
+msgid "Plugin Vulnerabilities"
+msgstr "插件漏洞"
+
+#: security-ninja-mainwp.php:556
+msgid "Pro Features"
+msgstr "专业功能"
+
+#: class/SecurityNinjaMainWPExtension.class.php:47
+#, php-format
+msgid "Read more here: <a href=\"%s\" target=\"_blank\">Security Ninja for MainWP Pro</a>"
+msgstr "在此阅读更多内容：<a href=\"%s\" target=\"_blank\">MainWP Pro 的安全忍者</a>"
+
+#: security-ninja-mainwp.php:763
+msgid "Run Security Tests (Security Ninja)"
+msgstr "运行安全测试 （Security Ninja）"
+
+#: security-ninja-mainwp.php:1086
+msgid "Scan results"
+msgstr "扫描结果"
+
+#: security-ninja-mainwp.php:384 security-ninja-mainwp.php:813
+#: security-ninja-mainwp.php:979 security-ninja-mainwp.php:1060
+msgid "Security Ninja"
+msgstr "安全忍者"
+
+#: security-ninja-mainwp.php:433 security-ninja-mainwp.php:523
+#: security-ninja-mainwp.php:1661
+msgid "Security Ninja for MainWP"
+msgstr "MainWP 的安全忍者"
+
+#: security-ninja-mainwp.php:385
+msgid "Security Ninja for MainWP Addon"
+msgstr "Security Ninja for MainWP 插件"
+
+#: class/SecurityNinjaMainWPExtension.class.php:44
+msgid "Security Ninja for MainWP Pro"
+msgstr "MainWP Pro 的安全忍者"
+
+#: security-ninja-mainwp.php:1375
+msgid "Security Tests"
+msgstr "安全测试"
+
+#: security-ninja-mainwp.php:560
+msgid "See results of malware scans in the site overview"
+msgstr "在站点概述中查看恶意软件扫描的结果"
+
+#: security-ninja-mainwp.php:549
+msgid "See vulnerability details on individual site pages"
+msgstr "在各个站点页面上查看漏洞详细信息"
+
+#: security-ninja-mainwp.php:1627
+msgid "Send to selected sites"
+msgstr "发送到选定的站点"
+
+#: security-ninja-mainwp.php:1629
+msgid "Settings updated successfully."
+msgstr "设置已成功更新。"
+
+#: class/SecurityNinjaMainWPExtension.class.php:66
+msgid "Site"
+msgstr "网站"
+
+#: security-ninja-mainwp.php:653 security-ninja-mainwp.php:691
+msgid "Site ID not provided."
+msgstr "未提供站点 ID。"
+
+#: security-ninja-mainwp.php:1281
+msgid "Site not found."
+msgstr "未找到站点。"
+
+#: security-ninja-mainwp.php:563
+msgid "Start malware scans remotely"
+msgstr "远程启动恶意软件扫描"
+
+#: security-ninja-mainwp.php:1381
+msgid "Status"
+msgstr "地位"
+
+#: security-ninja-mainwp.php:1007
+msgid "Test score"
+msgstr "测试分数"
+
+#: security-ninja-mainwp.php:515
+msgid "Thank you for supporting us on AppSumo! We promised free keys for MainWP. If you have purchased via our AppSumo launch please reach out to our support and we will create a free lifetime MainWP Extension license key."
+msgstr "感谢您在 AppSumo 上支持我们！我们承诺为 MainWP 提供免费密钥。如果您是通过我们的 AppSumo 发布购买的，请联系我们的支持人员，我们将创建一个终身免费的 MainWP 扩展许可证密钥。"
+
+#: security-ninja-mainwp.php:1338
+msgid "Theme Vulnerabilities"
+msgstr "主题漏洞"
+
+msgid "This extension integrates WP Security Ninja with MainWP"
+msgstr "此扩展将 WP Security Ninja 与 MainWP 集成"
+
+#: security-ninja-mainwp.php:1787
+#, php-format
+msgid "This extension requires the %sMainWP%s Plugin to be activated in order to work."
+msgstr "该扩展需要激活 %sMainWP%s 插件才能运行。"
+
+#: security-ninja-mainwp.php:525
+msgid "This plugin enables you to remotely monitor and manage Security Ninja on each website under your control."
+msgstr "此插件使您能够远程监控和管理 Security Ninja 在您控制的每个网站上。"
+
+#: security-ninja-mainwp.php:1297
+#, php-format
+msgid "This website reports using Security Ninja %1$s version %2$s"
+msgstr "本网站使用安全忍者 %1$s 版本 %2$s 进行报告"
+
+#: class/SecurityNinjaMainWPExtension.class.php:65
+#: security-ninja-mainwp.php:1383
+msgid "Timestamp"
+msgstr "时间戳"
+
+#: security-ninja-mainwp.php:1382
+msgid "Title"
+msgstr "标题"
+
+#: security-ninja-mainwp.php:540
+msgid "To access comprehensive details from websites using Security Ninja Premium, the Pro version of this MainWP Extension is required."
+msgstr "要使用 Security Ninja Premium 从网站访问全面详细信息，需要此 MainWP 扩展的 Pro 版本。"
+
+#: class/SecurityNinjaMainWPExtension.class.php:45
+msgid "To enhance your security management capabilities, consider upgrading to the Pro version of Security Ninja. With Pro, you gain access to a combined event log across all your websites equipped with Security Ninja Pro."
+msgstr "要增强您的安全管理功能，请考虑升级到 Security Ninja 的 Pro 版本。使用 Pro，您可以访问所有配备 Security Ninja Pro 的网站的组合事件日志。"
+
+#: security-ninja-mainwp.php:570
+msgid "Upgrade Now!"
+msgstr "立即升级！"
+
+#: security-ninja-mainwp.php:1566
+msgid "User Agent"
+msgstr "用户代理"
+
+#: security-ninja-mainwp.php:547
+msgid "View vulnerabilities and results of security tests for all sites"
+msgstr "查看所有站点的漏洞和安全测试结果"
+
+#: security-ninja-mainwp.php:1305
+msgid "Vulnerabilities"
+msgstr "漏洞"
+
+msgid "WP Security Ninja"
+msgstr "WP 安全忍者"
+
+#: security-ninja-mainwp.php:1626
+msgid "Warning: Disabling white label will remove custom branding from all selected sites."
+msgstr "警告：禁用白标将从所有选定的站点中删除自定义品牌。"
+
+#: security-ninja-mainwp.php:527
+msgid "Welcome New User! We're glad to have you on board. Enjoy using Security Ninja for MainWP!"
+msgstr "欢迎新用户！我们很高兴您的加入。享受使用 Security Ninja for MainWP 的乐趣！"
+
+#: security-ninja-mainwp.php:766
+msgid "White Label (Security Ninja)"
+msgstr "白标 （Security Ninja）"
+
+#: security-ninja-mainwp.php:707
+msgid "White label settings updated successfully."
+msgstr "白标设置已成功更新。"
+
+#: security-ninja-mainwp.php:1631
+msgid "You are about to run all security tests on the selected sites?"
+msgstr "您即将在选定的站点上运行所有安全测试？"
+
+#: security-ninja-mainwp.php:1632
+msgid "You are about to run malware scans on the selected sites?"
+msgstr "您即将在选定的站点上运行恶意软件扫描？"
+
+#: security-ninja-mainwp.php:640 security-ninja-mainwp.php:682
+#: security-ninja-mainwp.php:1491
+msgid "You do not have sufficient permissions to perform this action."
+msgstr "您没有足够的权限来执行此操作。"
+
+#: security-ninja-mainwp.php:1560
+msgid "ago"
+msgstr "前"
+
+msgid "https://wpsecurityninja.com/"
+msgstr "https://wpsecurityninja.com/"
+
+msgid "https://wpsecurityninja.com/mainwp/"
+msgstr "https://wpsecurityninja.com/mainwp/"
+
+#: security-ninja-mainwp.php:1013
+#, php-format
+msgid "%s vulnerability"
+msgid_plural "%s vulnerabilities"
+msgstr[0] "%s vulnerability"
+
+#: security-ninja-mainwp.php:516
+msgid "remember to mention you purchased via AppSumo."
+msgstr "记得提到您是通过 AppSumo 购买的。"

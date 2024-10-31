@@ -1,0 +1,31 @@
+#adminnotice {
+	width: 50%;
+}
+#postbutton {
+    margin-top: 20px;
+}
+
+span.secnin-score {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.secnin-good,
+.secnin-warning,
+.secnin-bad {
+    margin-right: 5px;
+    border-right: 1px solid #eee;
+    padding-right: 5px;
+    font-size: 0.8em;
+}
+
+.secnin-score-details:last-of-type {
+    border-right: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+.secnin-vulns {
+    font-size: 1.3em;
+}

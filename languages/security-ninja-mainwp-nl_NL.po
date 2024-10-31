@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==1) ? 0 : 1;\n"
+"X-Generator: Poedit 3.5\n"
+
+#: security-ninja-mainwp.php:1325 security-ninja-mainwp.php:1349
+#, php-format
+msgid "%1$s <small>v.%2$s</small>"
+msgstr "%1$s <small>v.%2$s</small>"
+
+#: security-ninja-mainwp.php:1224
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: class/SecurityNinjaMainWPExtension.class.php:68
+msgid "Action"
+msgstr "Actie"
+
+#: class/SecurityNinjaMainWPExtension.class.php:46
+msgid "Additionally, the Sites overview in the Security Ninja column will display more detailed insights, including malware scan reports and specific settings for each website."
+msgstr "Daarnaast toont het overzicht Sites in de kolom Security Ninja meer gedetailleerde inzichten, inclusief malware scanrapporten en specifieke instellingen voor elke website."
+
+#: security-ninja-mainwp.php:559
+msgid "All free features"
+msgstr "Alle gratis functies"
+
+#: security-ninja-mainwp.php:1630
+msgid "An error occurred. Please try again later."
+msgstr "Er heeft zich een fout voorgedaan. Probeer het later nog eens."
+
+#: security-ninja-mainwp.php:515
+msgid "AppSumo users!"
+msgstr "AppSumo-gebruikers!"
+
+#: security-ninja-mainwp.php:1617
+msgid "Author Name*"
+msgstr "Naam auteur*"
+
+#: security-ninja-mainwp.php:1619
+msgid "Author URL*"
+msgstr "Auteur URL*"
+
+#: security-ninja-mainwp.php:1605
+msgid "Change white label settings"
+msgstr "Instellingen white label wijzigen"
+
+#: security-ninja-mainwp.php:548
+msgid "Check out the test scores on individual site pages"
+msgstr "Bekijk de testscores op de afzonderlijke websitepagina's"
+
+#: security-ninja-mainwp.php:1625
+msgid "Close"
+msgstr "Sluit"
+
+#: security-ninja-mainwp.php:1101
+msgid "Comment"
+msgstr "Opmerking"
+
+#: security-ninja-mainwp.php:516 security-ninja-mainwp.php:534
+msgid "Contact our support here"
+msgstr "Neem hier contact op met onze ondersteuning"
+
+#: security-ninja-mainwp.php:1607
+msgid "Customize the white label settings for Security Ninja Premium websites"
+msgstr "De white label-instellingen aanpassen voor Security Ninja Premium-websites"
+
+#: class/SecurityNinjaMainWPExtension.class.php:69
+msgid "Description"
+msgstr "Beschrijving"
+
+#: security-ninja-mainwp.php:1611
+msgid "Disable white label"
+msgstr "Wit label uitschakelen"
+
+#: security-ninja-mainwp.php:532
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: security-ninja-mainwp.php:1609
+msgid "Enable white label"
+msgstr "White Label inschakelen"
+
+#: security-ninja-mainwp.php:1620
+msgid "Enter author URL*"
+msgstr "Auteur URL* invoeren"
+
+#: security-ninja-mainwp.php:1618
+msgid "Enter author name*"
+msgstr "Voer auteursnaam in*"
+
+#: security-ninja-mainwp.php:1616
+msgid "Enter plugin description*"
+msgstr "Plugin beschrijving invoeren*"
+
+#: security-ninja-mainwp.php:1622
+msgid "Enter plugin icon URL"
+msgstr "Voer de URL van het plugin-pictogram in"
+
+#: security-ninja-mainwp.php:1624
+msgid "Enter plugin menu icon URL"
+msgstr "Voer de URL van het plugin menupictogram in"
+
+#: security-ninja-mainwp.php:1614
+msgid "Enter plugin name*"
+msgstr "Plugin naam invoeren*"
+
+#: security-ninja-mainwp.php:561
+msgid "Examine detailed malware scans on individual site pages"
+msgstr "Gedetailleerde malwarescans op afzonderlijke sitepagina's onderzoeken"
+
+#: security-ninja-mainwp.php:544
+msgid "Free Features"
+msgstr "Gratis functies"
+
+#: security-ninja-mainwp.php:562
+msgid "Get a combined overview of all event logs from all websites to monitor activities"
+msgstr "Krijg een gecombineerd overzicht van alle eventlogs van alle websites om activiteiten te controleren"
+
+#: security-ninja-mainwp.php:532
+msgid "Getting stuck? Check out the documentation here:"
+msgstr "Loop je vast? Bekijk de documentatie hier:"
+
+#: class/SecurityNinjaMainWPExtension.class.php:67
+msgid "IP"
+msgstr "IP"
+
+#: security-ninja-mainwp.php:381
+#, php-format
+msgid "Important: The %1$s plugin is required to keep the %2$s running. Please do not deactivate it. If you have any questions, please contact support."
+msgstr "Belangrijk: De plugin %1$s is nodig om %2$s actief te houden. Deactiveer deze niet. Neem contact op met support als je vragen hebt."
+
+#: security-ninja-mainwp.php:550
+msgid "Initiate security tests on selected sites from a distance"
+msgstr "Op afstand veiligheidstests uitvoeren op geselecteerde sites"
+
+#: security-ninja-mainwp.php:1602
+msgid "It looks boring here, right? Please synchronize some websites with Security Ninja Premium installed."
+msgstr "Het ziet er hier saai uit, toch? Synchroniseer enkele websites waarop Security Ninja Premium is geïnstalleerd."
+
+#: security-ninja-mainwp.php:1091
+msgid "Last Run"
+msgstr "Laatste run"
+
+#: security-ninja-mainwp.php:1224
+msgid "Last Run:"
+msgstr "Laatste run:"
+
+#: security-ninja-mainwp.php:1100
+msgid "Linenumber"
+msgstr "Linnennummer"
+
+#: security-ninja-mainwp.php:1603
+msgid "Loading..."
+msgstr "Aan het laden..."
+
+#: security-ninja-mainwp.php:1099
+msgid "Mached pattern"
+msgstr "Gemaaid patroon"
+
+#: security-ninja-mainwp.php:1384
+msgid "Message"
+msgstr "Bericht"
+
+#: security-ninja-mainwp.php:1082 security-ninja-mainwp.php:1218
+msgid "No data available."
+msgstr "Geen gegevens beschikbaar."
+
+#: security-ninja-mainwp.php:1424
+msgid "No test results found"
+msgstr "Geen testresultaten gevonden"
+
+#: security-ninja-mainwp.php:1369
+msgid "No vulnerabilities found."
+msgstr "Geen kwetsbaarheden gevonden."
+
+#: security-ninja-mainwp.php:1027
+msgid "Open Security Ninja Tab"
+msgstr "Tabblad Ninja Beveiliging openen"
+
+#: security-ninja-mainwp.php:1510
+msgid "Open the site overview"
+msgstr "Open het siteoverzicht"
+
+#: security-ninja-mainwp.php:1628
+msgid "Please fill in all required fields."
+msgstr " Vul alle verplichte velden in."
+
+#: security-ninja-mainwp.php:1615
+msgid "Plugin Description*"
+msgstr "Plugin beschrijving*"
+
+#: security-ninja-mainwp.php:1621
+msgid "Plugin Icon URL"
+msgstr "URL plugin pictogram"
+
+#: security-ninja-mainwp.php:1623
+msgid "Plugin Menu Icon URL"
+msgstr "URL plugin menu pictogram"
+
+#: security-ninja-mainwp.php:1613
+msgid "Plugin Name*"
+msgstr "Plugin-naam*"
+
+#: security-ninja-mainwp.php:1316
+msgid "Plugin Vulnerabilities"
+msgstr "Kwetsbaarheden van plugins"
+
+#: security-ninja-mainwp.php:556
+msgid "Pro Features"
+msgstr "Pro functies"
+
+#: class/SecurityNinjaMainWPExtension.class.php:47
+#, php-format
+msgid "Read more here: <a href=\"%s\" target=\"_blank\">Security Ninja for MainWP Pro</a>"
+msgstr "Lees hier meer: <a href=\"%s\" target=\"_blank\">Beveiligings Ninja voor MainWP Pro</a>"
+
+#: security-ninja-mainwp.php:763
+msgid "Run Security Tests (Security Ninja)"
+msgstr "Beveiligingstests uitvoeren (Security Ninja)"
+
+#: security-ninja-mainwp.php:1086
+msgid "Scan results"
+msgstr "Scanresultaten"
+
+#: security-ninja-mainwp.php:384 security-ninja-mainwp.php:813
+#: security-ninja-mainwp.php:979 security-ninja-mainwp.php:1060
+msgid "Security Ninja"
+msgstr "Ninja Beveiliging"
+
+#: security-ninja-mainwp.php:433 security-ninja-mainwp.php:523
+#: security-ninja-mainwp.php:1661
+msgid "Security Ninja for MainWP"
+msgstr "Beveiliging Ninja voor MainWP"
+
+#: security-ninja-mainwp.php:385
+msgid "Security Ninja for MainWP Addon"
+msgstr "Beveiligings Ninja voor MainWP Addon"
+
+#: class/SecurityNinjaMainWPExtension.class.php:44
+msgid "Security Ninja for MainWP Pro"
+msgstr "Beveiliging Ninja voor MainWP Pro"
+
+#: security-ninja-mainwp.php:1375
+msgid "Security Tests"
+msgstr "Veiligheidstests"
+
+#: security-ninja-mainwp.php:560
+msgid "See results of malware scans in the site overview"
+msgstr "Bekijk de resultaten van malwarescans in het siteoverzicht"
+
+#: security-ninja-mainwp.php:549
+msgid "See vulnerability details on individual site pages"
+msgstr "Zie de details over kwetsbaarheid op de afzonderlijke websitepagina's"
+
+#: security-ninja-mainwp.php:1627
+msgid "Send to selected sites"
+msgstr "Verzenden naar geselecteerde sites"
+
+#: security-ninja-mainwp.php:1629
+msgid "Settings updated successfully."
+msgstr "Instellingen succesvol bijgewerkt."
+
+#: class/SecurityNinjaMainWPExtension.class.php:66
+msgid "Site"
+msgstr "Site"
+
+#: security-ninja-mainwp.php:653 security-ninja-mainwp.php:691
+msgid "Site ID not provided."
+msgstr "Locatie-ID niet verstrekt."
+
+#: security-ninja-mainwp.php:1281
+msgid "Site not found."
+msgstr "Site niet gevonden."
+
+#: security-ninja-mainwp.php:563
+msgid "Start malware scans remotely"
+msgstr "Start malwarescans op afstand"
+
+#: security-ninja-mainwp.php:1381
+msgid "Status"
+msgstr "Status"
+
+#: security-ninja-mainwp.php:1007
+msgid "Test score"
+msgstr "Testscore"
+
+#: security-ninja-mainwp.php:515
+msgid "Thank you for supporting us on AppSumo! We promised free keys for MainWP. If you have purchased via our AppSumo launch please reach out to our support and we will create a free lifetime MainWP Extension license key."
+msgstr "Bedankt dat je ons steunt op AppSumo! We hebben gratis sleutels beloofd voor MainWP. Als je hebt gekocht via onze AppSumo lancering, neem dan contact op met onze supportafdeling en we maken een gratis levenslange MainWP Extension licentiesleutel."
+
+#: security-ninja-mainwp.php:1338
+msgid "Theme Vulnerabilities"
+msgstr "Thema Kwetsbaarheden"
+
+msgid "This extension integrates WP Security Ninja with MainWP"
+msgstr "Deze uitbreiding integreert WP Security Ninja met MainWP"
+
+#: security-ninja-mainwp.php:1787
+#, php-format
+msgid "This extension requires the %sMainWP%s Plugin to be activated in order to work."
+msgstr "Deze extensie vereist dat de %sMainWP%s Plugin geactiveerd is om te kunnen werken."
+
+#: security-ninja-mainwp.php:525
+msgid "This plugin enables you to remotely monitor and manage Security Ninja on each website under your control."
+msgstr "Met deze plugin kun je op afstand Security Ninja controleren en beheren op elke website onder jouw beheer."
+
+#: security-ninja-mainwp.php:1297
+#, php-format
+msgid "This website reports using Security Ninja %1$s version %2$s"
+msgstr "Deze website maakt gebruik van Security Ninja %1$s versie %2$s"
+
+#: class/SecurityNinjaMainWPExtension.class.php:65
+#: security-ninja-mainwp.php:1383
+msgid "Timestamp"
+msgstr "Tijdstempel"
+
+#: security-ninja-mainwp.php:1382
+msgid "Title"
+msgstr "Titel"
+
+#: security-ninja-mainwp.php:540
+msgid "To access comprehensive details from websites using Security Ninja Premium, the Pro version of this MainWP Extension is required."
+msgstr "Om toegang te krijgen tot uitgebreide gegevens van websites die Security Ninja Premium gebruiken, is de Pro-versie van deze MainWP-extensie vereist."
+
+#: class/SecurityNinjaMainWPExtension.class.php:45
+msgid "To enhance your security management capabilities, consider upgrading to the Pro version of Security Ninja. With Pro, you gain access to a combined event log across all your websites equipped with Security Ninja Pro."
+msgstr "Om je mogelijkheden voor beveiligingsbeheer uit te breiden, kun je upgraden naar de Pro-versie van Security Ninja. Met Pro krijg je toegang tot een gecombineerd gebeurtenissenlogboek voor al je websites die zijn uitgerust met Security Ninja Pro."
+
+#: security-ninja-mainwp.php:570
+msgid "Upgrade Now!"
+msgstr "Upgrade nu!"
+
+#: security-ninja-mainwp.php:1566
+msgid "User Agent"
+msgstr "Gebruikersagent"
+
+#: security-ninja-mainwp.php:547
+msgid "View vulnerabilities and results of security tests for all sites"
+msgstr "Bekijk kwetsbaarheden en resultaten van beveiligingstests voor alle sites"
+
+#: security-ninja-mainwp.php:1305
+msgid "Vulnerabilities"
+msgstr "Kwetsbaarheden"
+
+msgid "WP Security Ninja"
+msgstr "WP Beveiliging Ninja"
+
+#: security-ninja-mainwp.php:1626
+msgid "Warning: Disabling white label will remove custom branding from all selected sites."
+msgstr "Waarschuwing: Als u white label uitschakelt, wordt de aangepaste merknaam verwijderd van alle geselecteerde sites."
+
+#: security-ninja-mainwp.php:527
+msgid "Welcome New User! We're glad to have you on board. Enjoy using Security Ninja for MainWP!"
+msgstr "Welkom, nieuwe gebruiker! We zijn blij je aan boord te hebben. Veel plezier met Security Ninja voor MainWP!"
+
+#: security-ninja-mainwp.php:766
+msgid "White Label (Security Ninja)"
+msgstr "White Label (Beveiliging Ninja)"
+
+#: security-ninja-mainwp.php:707
+msgid "White label settings updated successfully."
+msgstr "White label instellingen succesvol bijgewerkt."
+
+#: security-ninja-mainwp.php:1631
+msgid "You are about to run all security tests on the selected sites?"
+msgstr "U staat op het punt om alle beveiligingstests uit te voeren op de geselecteerde sites?"
+
+#: security-ninja-mainwp.php:1632
+msgid "You are about to run malware scans on the selected sites?"
+msgstr "Gaat u malwarescans uitvoeren op de geselecteerde sites?"
+
+#: security-ninja-mainwp.php:640 security-ninja-mainwp.php:682
+#: security-ninja-mainwp.php:1491
+msgid "You do not have sufficient permissions to perform this action."
+msgstr "U hebt niet voldoende rechten om deze actie uit te voeren."
+
+#: security-ninja-mainwp.php:1560
+msgid "ago"
+msgstr "geleden"
+
+msgid "https://wpsecurityninja.com/"
+msgstr "https://wpsecurityninja.com/"
+
+msgid "https://wpsecurityninja.com/mainwp/"
+msgstr "https://wpsecurityninja.com/mainwp/"
+
+#: security-ninja-mainwp.php:1013
+#, php-format
+msgid "%s vulnerability"
+msgid_plural "%s vulnerabilities"
+msgstr[0] "%s kwetsbaarheid"
+msgstr[1] "%s kwetsbaarheden"
+
+#: security-ninja-mainwp.php:516
+msgid "remember to mention you purchased via AppSumo."
+msgstr "Vergeet niet te vermelden dat je via AppSumo hebt gekocht."
